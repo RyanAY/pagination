@@ -1,0 +1,111 @@
+/****************************************************Default Style***********************************************/
+.pagination .pageNum {
+    display: inline-block;
+    width: 28px;
+    line-height: 28px;
+    text-align: center;
+    color: lightgrey;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.pagination span {
+    color: lightgrey;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+.pagination .p-info {
+    color: rgba(119, 118, 118, 0.84);
+    margin: 0 10px;
+}
+
+.pagination .p-go {
+    display: inline-block;
+    width: 40px;
+    line-height: 40px;
+    margin-right: 10px;
+    background: lightgray;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.pagination .p-input {
+    line-height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    border: 1px lightgray solid;
+}
+
+.pagination .p-input:focus{
+    border: transparent;
+    display: inline-block;
+}
+
+.pagination .p-on{
+    display: inline-block;
+    background: lightgray;
+    width: 28px;
+    line-height: 28px;
+    text-align: center;
+    border-radius: 13px;
+    color: white;
+}
+
+/****************************************************Line Style*************************************************/
+.line-pagination .pageNum {
+    display: inline-block;
+    width: 28px;
+    line-height: 28px;
+    text-align: center;
+    color: lightgrey;
+    cursor: pointer;
+}
+
+.line-pagination span {
+    color: lightgrey;
+    cursor: pointer;
+}
+
+.line-pagination .p-info {
+    color: rgba(119, 118, 118, 0.84);
+    margin: 0 10px;
+}
+
+.line-pagination .p-go {
+    display: inline-block;
+    width: 40px;
+    line-height: 40px;
+    margin-right: 10px;
+    background: lightgray;
+    color: white;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.line-pagination .p-input {
+    line-height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    border: 1px lightgray solid;
+}
+
+.line-pagination .p-input:focus{
+    border: transparent;
+    display: inline-block;
+}
+
+.line-pagination .p-on{
+    display: inline-block;
+    width: 28px;
+    line-height: 28px;
+    text-align: center;
+    color: lightgrey;
+    border-bottom: 1px solid lightgrey;
+}
+.line-pagination .underline{
+    border: 1px solid red;
+    display: block;
+    width: 0px;
+}
